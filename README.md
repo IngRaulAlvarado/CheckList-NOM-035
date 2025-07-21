@@ -1,9 +1,5 @@
 # 📘 Estructura de Implementación NOM-035-STPS-2018
 
-Este documento combina la estructura de implementación de la NOM-035-STPS-2018 para **entregables a la empresa** y **documentación interna**.
-
----
-
 ## 1. 📂 Comité
 
 ### Documentación Interna
