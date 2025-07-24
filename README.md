@@ -80,36 +80,28 @@
 ## 5. 📂 Aplicación  
 🔗 [Carpeta general de Aplicación](https://drive.google.com/drive/folders/1-WzgYbZoju1TWZ7IQq2-JerFEEiOO56y?usp=sharing)
 
-- **5.1** 📂 Formatos para aplicación
-  - **5.1.1** 🗒️ [Cuestionarios NOM-035 (I, III, V)](https://docs.google.com/spreadsheets/d/1a4-Imh3RxsUWyzkVnb44i7AfddLwpE5t9yIqDF1JMk8/edit?usp=sharing)  
-    *(Excel → Imprimir)*
-  - **5.1.2** 🧑‍🏫 [PPT de guías de referencia](https://docs.google.com/presentation/d/15M3QSIVX_AMTUqeKSa4JuN459Y8TRzVA/edit?usp=sharing)  
-    *(Excel → Proyectar)*
+ - **5.1** 🗒️ [Cuestionarios NOM-035 (I, III, V)](https://docs.google.com/spreadsheets/d/1a4-Imh3RxsUWyzkVnb44i7AfddLwpE5t9yIqDF1JMk8/edit?usp=sharing) *(Excel → Imprimir)*
+ - **5.2** 🧑‍🏫 [PPT de guías de referencia](https://docs.google.com/presentation/d/15M3QSIVX_AMTUqeKSa4JuN459Y8TRzVA/edit?usp=sharing) *(Excel → Proyectar)*
 
-- **5.2** 🗒️ [Formato de justificación de muestra](https://docs.google.com/spreadsheets/d/16TE5T9wMSI2S2bWFfejVOP590y8kbtfEhEysBdNnI7M/edit?usp=sharing)  
-  *(Excel → Nueva hoja → PDF)*
+- **5.3** 🗒️ [Formato de justificación de muestra](https://docs.google.com/spreadsheets/d/16TE5T9wMSI2S2bWFfejVOP590y8kbtfEhEysBdNnI7M/edit?usp=sharing) *(Excel → Nueva hoja → PDF)*
 
-- **5.3** 🗒️ [Formato de muestra representativa](https://docs.google.com/spreadsheets/d/1EEhkgXMS7siUd_fevWlWDSzyO-3OHnCWWxi_FExG0Ps/edit?usp=sharing)  
-  *(Excel → Nueva hoja → PDF)*
+- **5.4** 🗒️ [Formato de muestra representativa](https://docs.google.com/spreadsheets/d/1EEhkgXMS7siUd_fevWlWDSzyO-3OHnCWWxi_FExG0Ps/edit?usp=sharing) *(Excel → Nueva hoja → PDF)*
 
 ---
 
 ## 6. 📂 Resultados  
 🔗 [Carpeta general de Resultados](https://drive.google.com/drive/folders/1-WzgYbZoju1TWZ7IQq2-JerFEEiOO56y?usp=sharing)
 
-- **6.1** 💾 [Base de datos de respuestas](https://drive.google.com/open?id=1wEUMrUGcwx5LwgqQMC0NhvoMqMFF6Dc4skBaFZhNDdA&usp=drive_copy)  
-  *(Nuevo → Excel)*
+- **6.1** 💾 [Base de datos de respuestas](https://drive.google.com/open?id=1wEUMrUGcwx5LwgqQMC0NhvoMqMFF6Dc4skBaFZhNDdA&usp=drive_copy) *(Nuevo → Excel)*
 
-- **6.2** 🗒️ Informe diagnóstico  
-  *(Nuevo → PDF)*
+- **6.2** 🗒️ Informe diagnóstico *(Nuevo → PDF)*
 
 ---
 
 ## 7. 📂 Evidencias  
 🔗 [Carpeta general de Evidencias](https://drive.google.com/drive/folders/1IpkCA_j7ij89NzDKZGYC_geIODGXgQNH?usp=sharing)
 
-- **7.1** 📸 [Formato de evidencias](https://docs.google.com/spreadsheets/d/1nFxoZt_OjIEbiVQtsZoXN6DXZWuZ5CVq/edit?usp=sharing)  
-  *(Excel → Nueva carpeta → PDF)*
+- **7.1** 📸 [Formato de evidencias](https://docs.google.com/spreadsheets/d/1nFxoZt_OjIEbiVQtsZoXN6DXZWuZ5CVq/edit?usp=sharing) *(Excel → Nueva carpeta → PDF)*
 
 ---
 
