@@ -17,8 +17,7 @@
 
 ---
 
-## 2. 📂 Plan de Acción  
-🔗 [Carpeta general del Plan de Acción](https://drive.google.com/drive/folders/1zwc_zMZn6Fq9UkBxS11RiQd_hNmjn9ng?usp=sharing)
+## [2. 📂 Plan de Acción](https://drive.google.com/drive/folders/1zwc_zMZn6Fq9UkBxS11RiQd_hNmjn9ng?usp=sharing)
 
 - **2.1** 📊 [OIL](https://www.canva.com/design/DAGt1aH35Cg/rWhcrguS-B4pk8j0RLzvxQ/edit?utm_content=DAGt1aH35Cg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) *(Excel → Duplicar → Excel)*
 
@@ -28,8 +27,7 @@
 
 ---
 
-## 3. 📜 Política  
-🔗 [Carpeta general de Política](https://drive.google.com/drive/folders/17zOhSIqWR4FZs64M_Lz-bmtvG1lX3llP?usp=sharing)
+## [3. 📜 Política](https://drive.google.com/drive/folders/17zOhSIqWR4FZs64M_Lz-bmtvG1lX3llP?usp=sharing)
 
 
 - **3.1** 🗒️ [Manual de política de prevención de riesgos psicosociales](https://docs.google.com/document/d/1GcMANwwKMPgWp5CIkMcYSPT7yP3cvwJU/edit?usp=sharing) *(Doc → Duplicar → PDF)*
@@ -38,8 +36,7 @@
 
 ---
 
-## 4. 📂 Difusión  
-🔗 [Carpeta general de Difusión](https://drive.google.com/drive/folders/1-WzgYbZoju1TWZ7IQq2-JerFEEiOO56y?usp=sharing)
+## [4. 📂 Difusión](https://drive.google.com/drive/folders/1-WzgYbZoju1TWZ7IQq2-JerFEEiOO56y?usp=sharing)
 
 
 - **4.1** 📣▶️ [Video de sensibilización](https://www.canva.com/design/DAGre1gPM80/KEDlZaPVfc0g3Jkh0-qaUQ/edit?utm_content=DAGre1gPM80&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) *(Canva → Duplicar → MP4)*
@@ -58,8 +55,7 @@
 
 ---
 
-## 5. 📂 Aplicación  
-🔗 [Carpeta general de Aplicación](https://drive.google.com/drive/folders/1-WzgYbZoju1TWZ7IQq2-JerFEEiOO56y?usp=sharing)
+## [5. 📂 Aplicación](https://drive.google.com/drive/folders/1-WzgYbZoju1TWZ7IQq2-JerFEEiOO56y?usp=sharing)
 
  - **5.1** 🗒️ [Cuestionarios NOM-035 (I, III, V)](https://docs.google.com/spreadsheets/d/1a4-Imh3RxsUWyzkVnb44i7AfddLwpE5t9yIqDF1JMk8/edit?usp=sharing) *(Excel → Imprimir)*
 
@@ -71,8 +67,7 @@
 
 ---
 
-## 6. 📂 Resultados  
-🔗 [Carpeta general de Resultados](https://drive.google.com/drive/folders/1-WzgYbZoju1TWZ7IQq2-JerFEEiOO56y?usp=sharing)
+## [6. 📂 Resultados](https://drive.google.com/drive/folders/1-WzgYbZoju1TWZ7IQq2-JerFEEiOO56y?usp=sharing)
 
 - **6.1** 💾 [Base de datos de respuestas](https://drive.google.com/open?id=1wEUMrUGcwx5LwgqQMC0NhvoMqMFF6Dc4skBaFZhNDdA&usp=drive_copy) *(Nuevo → Excel)*
 
@@ -80,15 +75,13 @@
 
 ---
 
-## 7. 📂 Evidencias  
-🔗 [Carpeta general de Evidencias](https://drive.google.com/drive/folders/1IpkCA_j7ij89NzDKZGYC_geIODGXgQNH?usp=sharing)
+## [7. 📂 Evidencias](https://drive.google.com/drive/folders/1IpkCA_j7ij89NzDKZGYC_geIODGXgQNH?usp=sharing)
 
 - **7.1** 📸 [Formato de evidencias](https://docs.google.com/spreadsheets/d/1nFxoZt_OjIEbiVQtsZoXN6DXZWuZ5CVq/edit?usp=sharing) *(Excel → Nueva carpeta → PDF)*
 
 ---
 
-## 8. 📂 Listas de Asistencia y Minutas  
-🔗 [Carpeta general de Asistencias y Minutas](https://drive.google.com/drive/folders/1S3aYhxfzjBYGjyHaI5nx36XF4GXICFZ_?usp=sharing)
+## [8. 📂 Listas de Asistencia y Minutas](https://drive.google.com/drive/folders/1S3aYhxfzjBYGjyHaI5nx36XF4GXICFZ_?usp=sharing)
 
 - **8.1** 📂 Empresa
   - **8.1.1** 🗒️ Formato de listas de asistencia *(Excel → Duplicar → Excel)*
