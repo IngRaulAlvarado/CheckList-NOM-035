@@ -83,6 +83,5 @@
 
 ## [8. 📂 Listas de Asistencia y Minutas](https://drive.google.com/drive/folders/1S3aYhxfzjBYGjyHaI5nx36XF4GXICFZ_?usp=sharing)
 
-- **8.1** 📂 Empresa
-  - **8.1.1** 🗒️ Formato de listas de asistencia *(Excel → Duplicar → Excel)*
-  - **8.1.2** 🗒️ Formato de minutas *(Excel → Duplicar → Excel)*
+  - **8.1** 🗒️ Formato de listas de asistencia *(Excel → Duplicar → Excel)*
+  - **8.1** 🗒️ Formato de minutas *(Excel → Duplicar → Excel)*
