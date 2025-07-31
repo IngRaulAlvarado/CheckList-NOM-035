@@ -19,7 +19,7 @@
 
 ## [2. 📂 Plan de Acción](https://drive.google.com/drive/folders/1zwc_zMZn6Fq9UkBxS11RiQd_hNmjn9ng?usp=sharing)
 
-- **2.1** 📊 [OIL](https://www.canva.com/design/DAGt1aH35Cg/rWhcrguS-B4pk8j0RLzvxQ/edit?utm_content=DAGt1aH35Cg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) *(Excel → Duplicar → Excel)*
+- **2.1** 📊 [OIL](https://docs.google.com/spreadsheets/d/1ps1SvLa627WjOE8TqXgn2gj_H3ukYH2f1BqQziAsndc/edit?usp=sharing) *(Excel → Duplicar → Excel)*
 
 - **2.2** 📊 [Plan de comunicación](https://docs.google.com/spreadsheets/d/1iUeMJglZo7JAxm8pupURR2-LwIQiCy3UNlLRLDxi1iU/edit?usp=sharing) *(Excel → Duplicar → Excel)*
 
