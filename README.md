@@ -1,5 +1,9 @@
 # 📘 Estructura de Implementación NOM-035-STPS-2018
 
+## [0. 📂 Arranque]
+
+- **0.1** [Formulario de datos de la empresa](https://forms.office.com/r/D4YcvEzFvJ?origin=lprLink) *(Forms → Excel → PDF)*
+
 ## [1. 📂 Comité](https://drive.google.com/drive/folders/1T3vKtbdLoICFiMFBKpzb1WySNNfzLZL8?usp=sharing)
 
 - **1.1** 🗒️ [Formato de acta de comité](https://docs.google.com/spreadsheets/d/1xshy5uOTOhnYbK3XiQeNU00sCzBbgELo121SnS90mgk/edit?usp=sharing) *(Excel → Nueva hoja → PDF)*
