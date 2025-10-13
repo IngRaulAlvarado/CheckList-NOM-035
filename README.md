@@ -1,6 +1,6 @@
 # 📘 Estructura de Implementación NOM-035-STPS-2018
 
-## [0. 📂 Arranque]
+## 0. 📂 Arranque
 
 - **0.1** [Formulario de datos de la empresa](https://forms.office.com/r/D4YcvEzFvJ?origin=lprLink) *(Forms → Excel → PDF)*
 
